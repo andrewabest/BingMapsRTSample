@@ -71,7 +71,7 @@
 
             <Maps:BindableMap x:Name="MapControl"
                               DataTemplateSelector="{StaticResource ItemTemplateSelector}" 
-                              Credentials="ArAxzyz7qy0NheRJmkgHtHUzVFgiUhUMTZwzq8gijmlgShAMJgy46tCwJvVlPfnv" 
+                              Credentials="INSERT_YOUR_MAP_KEY_HERE" 
                               ItemsSource="{Binding MapLocations}"
                               Grid.Column="1"/>
         </Grid>
